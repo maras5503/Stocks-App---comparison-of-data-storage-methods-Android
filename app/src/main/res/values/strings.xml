@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Akcje GPW</string>
+    <string name="table_symbol">Notowanie</string>
+    <string name="table_change">Zmiana</string>
+    <string name="table_price">Cena</string>
+    <string name="load">Load</string>
+    <string name="save">Save</string>
+    <string name="exit">Wyjdź</string>
+    <string name="refresh">Odśwież</string>
+    <string name="applyBtn">Zatwierdź</string>
+    <string name="datastorage">Przechowywanie danych</string>
+</resources>
